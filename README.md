@@ -8,7 +8,7 @@ Estimates the probability of any stock or crypto asset finishing above or below 
 
 ## Live Web App
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://polykalsh-chance.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://polykalsh-chance-dzg5kmwehddz2tcapku7iv.streamlit.app)
 
 ---
 
